@@ -7,14 +7,14 @@
 
 Your [contributions](contributing.md) are always welcome !
 
-## Awesome Repositories
+## Dntworrboutit Repositories
 
 Repository | De repositorys scription
 ---- | ----
 
 
 
-[Pentesting repositorys](https://github.com/Dntworrboutit)
+
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources 
 [Hacking Tools ](https://github.com/Dntworrboutit/Hacking-Tools.git)
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
